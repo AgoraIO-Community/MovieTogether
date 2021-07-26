@@ -1,5 +1,11 @@
 # Movie Together
 
+## 应用视频
+
+![视频1](https://webdemo.agora.io/movie-together-01.mp4)
+
+![视频2](https://webdemo.agora.io/movie-together-02.mp4)
+
 ## 应用截图
 
 ![screenshot_1](./demo_screenshot.png)
