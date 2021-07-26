@@ -2,9 +2,9 @@
 
 ## 应用视频
 
-![视频1](https://webdemo.agora.io/movie-together-01.mp4)
+<video src="https://webdemo.agora.io/movie-together-01.mp4" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
 
-![视频2](https://webdemo.agora.io/movie-together-02.mp4)
+<video src="https://webdemo.agora.io/movie-together-02.mp4" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
 
 ## 应用截图
 
