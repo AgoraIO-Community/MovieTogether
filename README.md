@@ -2,9 +2,8 @@
 
 ## 应用视频
 
-<video src="https://webdemo.agora.io/movie-together-01.mp4" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
-
-<video src="https://webdemo.agora.io/movie-together-02.mp4" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
+![video1](https://webdemo.agora.io/01.gif)
+![video2](https://webdemo.agora.io/02.gif)
 
 ## 应用截图
 
